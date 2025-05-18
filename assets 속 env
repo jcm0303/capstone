@@ -1,0 +1,5 @@
+BASE_URL=http://192.168.45.130:3000
+BASE_URL1= https://b01a-118-41-96-81.ngrok-free.app
+MAP_KEY = y052t6dou
+OPENWEATHER_API_KEY=4f094e57046ce6fdefb6bfb27386110b
+
